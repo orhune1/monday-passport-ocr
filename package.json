@@ -1,14 +1,13 @@
 {
     "name": "monday-passport-ocr",
-    "version": "1.0.0",
-    "description": "Monday.com Passport OCR — Tesseract.js + MRZ Parser",
+    "version": "2.0.0",
+    "description": "Monday.com Passport OCR — Gemini Vision API",
     "private": true,
     "scripts": {
         "start": "node index.js"
     },
     "dependencies": {
         "express": "^4.21.0",
-        "tesseract.js": "^5.1.0",
         "node-fetch": "^2.7.0"
     },
     "engines": {
